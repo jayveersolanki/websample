@@ -16,6 +16,8 @@ This is a simple web project
 
 ## How to Contribute
 
+please fork this repo and then issue Pull requet for review.
+
 ## Copyright
 
 2019 github.com
