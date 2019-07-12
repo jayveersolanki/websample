@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    jayveer solanki jay@gmail.com @jayveersolnaki
 
 # THANKS
 
