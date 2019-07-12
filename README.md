@@ -8,6 +8,10 @@ This is example is to show different parts of the Git reppository and varios com
 
 ## Purpose
 
+As stated above, the main purpose is to provide simple examples for git training demos.
+
 ## Deployment
+
+This is a simple web project
 
 ## How to Contribute
