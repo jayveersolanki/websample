@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing how to use git and github together. updating for emegency fix after stashing.this line is added for rebase example
+This is a simple website project for showing how to use git and github together. updating for emegency fix after stashing.this line is added for rebase example, then more changes from my feature branch
 
 ## Introduction
 
